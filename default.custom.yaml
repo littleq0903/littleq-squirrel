@@ -1,0 +1,13 @@
+patch:
+  switcher:
+    hotkeys:
+    - Shift+Control+grave
+    caption: '"Menu"'
+  menu:
+    page_size: 9
+  schema_list:
+  - schema: bopomofo
+  key_binder:
+    - bindings:
+      - {accept: Tab, send: Page_Down, when: composing}
+  

@@ -1,0 +1,14 @@
+patch:
+  show_notifications_when: always
+  show_notifications_via_notification_center: true
+  style:
+    border_width: 3
+    alpha: 0.65
+    border_height: 1
+    font_point: 22
+    horizontal: false
+    line_spacing: 8
+    font_face: "Ubuntu Mono,Noto Sans T Chinese"
+    corner_radius: 10
+    color_scheme: starcraft
+  us_keyboard_layout: true
