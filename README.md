@@ -1,0 +1,1 @@
+clone command: `git clone git@gist.github.com:/0cc95cc4e122f000c2f9.git my-squirrel-settings`
